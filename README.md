@@ -1,17 +1,14 @@
-# WakeApp - Depression Monitoring System
+# 🌞 WakeApp - Depression Monitoring System
 
 ![WakeApp Logo](https://github.com/matthew-2000/WakeApp/blob/main/assets/icons/icona.png)
 
 **Table of Contents**
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
-- [Project Status](#project-status)
-- [Acknowledgments](#acknowledgments)
+- [📝 Description](#description)
+- [🚀 Installation](#installation)
+- [📄 License](#license)
+- [🙏 Acknowledgments](#acknowledgments)
 
-## Description
+## 📝 Description
 
 WakeApp is a system designed to assist individuals suffering from major depression. Its primary objectives are:
 
@@ -36,7 +33,7 @@ The system's mood monitoring operates as follows:
 
 Furthermore, there is a multi-platform dashboard available to healthcare professionals, where all data collected from the patients' applications is displayed. The doctor will have access to data and analyses conducted by AI at any time for all their patients.
 
-## Installation
+## 🚀 Installation
 
 To install WakeApp, follow these steps:
 
@@ -45,11 +42,11 @@ To install WakeApp, follow these steps:
 3. Install Flutter for the mobile application.
 4. Set up the [Flask server](server_python) for handling notifications and data analysis.
 
-## License
+## 📄 License
 
 WakeApp is licensed under the [MIT License](link_to_license).
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
 We would like to thank the open-source community and the following libraries and frameworks that have contributed to the development of WakeApp:
 
